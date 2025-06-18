@@ -70,7 +70,6 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiMTIsMTN86aaZ5rivNXxAcmlwYW9qaWVkaWFuIiwgImFkZCI6
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766#12%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206ODM2MGFkY2VhMGIx@kr6v1.dashengjs.net:443#12%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTIsMTN85paw5Yqg5Z2hMnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxNzIuNjQuMTU3LjEwMCIsICJwb3J0IjogIjg0NDMiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIzZGE1ZDI3Zi0wOGQwLTQwNzgtZjg5MC1jZjk1MGVjYjE3MDgiLCAic25pIjogInRyYW5zY3JpcHRzLWd1eXMtc2luZ2Fwb3JlLWZvdG9zLnRyeWNsb3VkZmxhcmUuY29tIiwgImhvc3QiOiAidHJhbnNjcmlwdHMtZ3V5cy1zaW5nYXBvcmUtZm90b3MudHJ5Y2xvdWRmbGFyZS5jb20iLCAicGF0aCI6ICIvIn0=
-ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8774#12%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@103.245.229.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CAE_speednode_0001
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@94.140.0.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#14%7CAE_speednode_0002
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@181.214.1.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CAE_speednode_0003
@@ -195,7 +194,6 @@ trojan://ttfang@13.233.5.49:443?allowInsecure=1&sni=ttfang.fange.me&type=ws&host
 vless://dbe8f806-7ddd-4934-8a0e-1d9204107212@5.202.8.213:1194?allowInsecure=1&sni=r14.irlancer.ir&security=tls#14%7CIR_speednode_0133
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@62.72.166.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CJO_speednode_0134
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@103.116.7.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CJP_speednode_0136
-trojan://ttfang@119.195.155.85:27094?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/#14%7CKR_speednode_0139
 vless://6a7c2881-83f0-47ea-b05c-441a18960ef4@125.134.6.129:11333?allowInsecure=0&sni=mihu.sorry.ip-ddns.com&type=ws&host=mihu.sorry.ip-ddns.com&path=/?ed=2560fp=random&security=tls#14%7CKR_speednode_0155
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.76.18.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#14%7CKZ_speednode_0158
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@31.43.179.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#14%7CKZ_speednode_0159
@@ -586,4 +584,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.132.188.63:8880?allowInsecure=0
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
-### 更新时间 2025-06-17 20:15:45 
+### 更新时间 2025-06-17 20:18:01 
