@@ -85,6 +85,7 @@ vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@23.227.60.247:8880?allowInsecure=0&
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@74.49.214.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CCA_speednode_0014
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@74.49.215.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CCA_speednode_0015
 vless://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.93.29:26113?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCA_speednode_0016
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.18.250.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CCH_speednode_0017
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@190.93.245.247:8880?allowInsecure=1&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CCR_speednode_0025
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@190.93.247.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CCR_speednode_0026
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@190.93.244.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CCR_speednode_0027
@@ -275,6 +276,7 @@ vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@199.34.229.247:8880?allowInsecure=0
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@192.0.63.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CUS_speednode_0244
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@198.202.211.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CUS_speednode_0245
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@205.233.181.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CUS_speednode_0247
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@184.174.80.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CUS_speednode_0248
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@209.94.90.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CUS_speednode_0249
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@195.13.45.247:8880?allowInsecure=1&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CUS_speednode_0250
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.81.85.15:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#14%7CVN_speednode_0251
@@ -289,4 +291,4 @@ vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@102.177.176.247:8880?allowInsecure=
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
-### 更新时间 2025-06-20 12:45:45 
+### 更新时间 2025-06-20 12:47:38 
