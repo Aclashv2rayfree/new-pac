@@ -24,7 +24,6 @@
 免费节点
 
 ```
-vless://c1201f65-7290-4857-b552-08d5add4b362@102.215.228.122:24161?security=none&type=tcp&encryption=none&headerType=none#%E6%9C%AA%E7%9F%A5
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.72:15098#%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD_1
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.16.212:989#%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD_3
 vless://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80?security=none&type=ws&host=ov-canada1.09vpn.com&encryption=none&type=ws&path=%2Fvless%2F&sni=ov-canada1.09vpn.com&headerType=none#%F0%9F%87%AE%F0%9F%87%B3_IN_%E5%8D%B0%E5%BA%A6-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
@@ -205,4 +204,4 @@ vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@102.132.188.251:8880?allowInsecure=
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
-### 更新时间 2025-06-21 20:15:45 
+### 更新时间 2025-06-21 20:17:28 
